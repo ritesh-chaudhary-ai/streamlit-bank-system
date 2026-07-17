@@ -15,7 +15,7 @@
 > Add a screenshot here after uploading it to your repository.
 
 ```markdown
-![Bank Dashboard](bank_dashboard.png)
+![Bank Dashboard](bank_dashboard.png.jpeg)
 ```
 
 ---
