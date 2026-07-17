@@ -16,11 +16,6 @@
 
 ![Bank Dashboard](bank_dashboard.png)
 
-```markdown
-
-```
-
----
 
 ## 📌 Overview
 
