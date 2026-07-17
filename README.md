@@ -2,10 +2,18 @@
 
 ### A Simple Banking Application Built with Python & Streamlit
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Coming%20Soon-orange?style=for-the-badge)](#)
+# 🏦 Streamlit Bank Management System
+
+### A Simple Banking Application Built with Python & Streamlit
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-success?style=for-the-badge)](https://app-bank-system-4hxxwanwvr7odh3aqwnybn.streamlit.app)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 [![JSON](https://img.shields.io/badge/Database-JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritesh-chaudhary-ai/streamlit-bank-system)
 
 ---
