@@ -2,10 +2,6 @@
 
 ### A Simple Banking Application Built with Python & Streamlit
 
-# 🏦 Streamlit Bank Management System
-
-### A Simple Banking Application Built with Python & Streamlit
-
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-success?style=for-the-badge)](https://app-bank-system-4hxxwanwvr7odh3aqwnybn.streamlit.app)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
