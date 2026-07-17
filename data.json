@@ -1,0 +1,74 @@
+[
+    {
+        "name": "akrsh",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "harsh patel",
+        "age": 24,
+        "email": "harsh@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "Akarsh vyas",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    },
+    {
+        "name": "Ritesh Chaudhary",
+        "age": 23,
+        "email": "ritesh@gmail.com",
+        "pin": 1234,
+        "accountNo.": "7J%H76B",
+        "balance": 0
+    },
+    {
+        "name": "Mohan chaudhary",
+        "age": 42,
+        "email": "mohan@gmail.com",
+        "pin": 2345,
+        "accountNo.": "c83u!t4",
+        "balance": 0
+    },
+    {
+        "name": "Nand prasad ",
+        "age": 56,
+        "email": "nand@gmail.com",
+        "pin": 4321,
+        "accountNo.": "y9qp9&7",
+        "balance": 0
+    },
+    {
+        "name": "Rishi",
+        "age": 25,
+        "email": "rishi@gmail.com",
+        "pin": 2345,
+        "accountNo.": "3X^Vn21",
+        "balance": 0
+    },
+    {
+        "name": "rishi",
+        "age": 25,
+        "email": "r012@gmail.com",
+        "pin": 1234,
+        "accountNo.": "B^Y08w6",
+        "balance": 0
+    },
+    {
+        "name": "Sunny",
+        "age": 20,
+        "email": "sunny@gmail.com",
+        "pin": 3216,
+        "accountNo.": "7c^wH50",
+        "balance": 1
+    }
+]
